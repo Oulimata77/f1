@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bonjour c'est 
+=======
+bonjour c'est 
+>>>>>>> cc71bbe3aa56467f4eb2d165cb22852393004ee6
